@@ -1,0 +1,11 @@
+{
+  "name": "com.gustorvo.tools",
+  "version": "1.0.0",
+  "displayName": "Gustorvo's Editor Tools",
+  "description": "This is a collection of some useful Editor Tools for starting a fresh project.",
+  "unity": "2022.2",
+  "author": {
+    "name": "Volodymyr Tormoz",
+    "email": "mumiasms@gmail.com"
+  }
+}
