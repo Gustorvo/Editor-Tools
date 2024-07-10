@@ -1,8 +1,8 @@
 {
   "name": "com.gustorvo.tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Gustorvo's Editor Tools",
-  "description": "This is a collection of some useful Editor Tools for starting a fresh project.",
+  "description": "This is a collection of some useful Editor Tools for starting a fresh XR project. Supports bot Built-in and URP.",
   "unity": "2022.2",
   "author": {
     "name": "Volodymyr Tormoz",
